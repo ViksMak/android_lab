@@ -17,6 +17,12 @@
             android:layout_height="wrap_content"
             android:text="привет" />
 
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="мяу" />
+
         <Button
             android:id="@+id/button"
             android:layout_width="match_parent"
