@@ -9,5 +9,12 @@
         android:id="@+id/lian"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"></LinearLayout>
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="привет" />
+    </LinearLayout>
 </FrameLayout>
